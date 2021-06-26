@@ -41,3 +41,4 @@ Any two subsequent correct submissions that are less than 120 seconds are consid
 ### Options
 * You can optionally choose to extract the code for each students correct submissions to a directory and use the moss program to compare it to all other students code (and if you choose to other solutions - maybe found online - that you have stored in a directory). For this to work you'll have to setup the following variables **DEFAULTOUTPUTDIR** (directory where extracted code will be written to), **MOSSDIR** (directory where the moss.bat and moss.pl files are that are used to run mosss), **ONLINESOLUTIONS** (directory that contains other solutions you want to check your student's code against).
 
+Andy Was HERE
